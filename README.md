@@ -220,6 +220,4 @@ echo "Access Result: " . $result->value . "\n"; // ALLOWED (within 10% grace buf
 
 ---
 
-## 6. Architecture & Design Principles
-
-For complete architectural details, complexity analysis, error handling hierarchies, and production evolution roadmap, refer to [ARCHITECTURE.md](ARCHITECTURE.md).
+ 
